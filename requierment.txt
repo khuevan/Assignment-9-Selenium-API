@@ -1,3 +1,2 @@
 selenium
-
--- chrome driver
+# chromedriver.exe
